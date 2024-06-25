@@ -1,4 +1,4 @@
-<h1 aling="center">Projeto Compra de Pizza</h1>
+<h1 align="center">Projeto Compra de Pizza</h1>
 
 ## [🌎 Veja o projeto Online](https://compradepizza-br.netlify.app) 
 
